@@ -1,0 +1,15 @@
+C:\Users\RENATA\Desktop\SP3044866\Avaliacao2BimLP3\bin\Debug\net6.0\Avaliacao2bimLP3.exe
+C:\Users\RENATA\Desktop\SP3044866\Avaliacao2BimLP3\bin\Debug\net6.0\Avaliacao2bimLP3.deps.json
+C:\Users\RENATA\Desktop\SP3044866\Avaliacao2BimLP3\bin\Debug\net6.0\Avaliacao2bimLP3.runtimeconfig.json
+C:\Users\RENATA\Desktop\SP3044866\Avaliacao2BimLP3\bin\Debug\net6.0\Avaliacao2bimLP3.dll
+C:\Users\RENATA\Desktop\SP3044866\Avaliacao2BimLP3\bin\Debug\net6.0\Avaliacao2bimLP3.pdb
+C:\Users\RENATA\Desktop\SP3044866\Avaliacao2BimLP3\obj\Debug\net6.0\Avaliacao2bimLP3.csproj.AssemblyReference.cache
+C:\Users\RENATA\Desktop\SP3044866\Avaliacao2BimLP3\obj\Debug\net6.0\Avaliacao2bimLP3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RENATA\Desktop\SP3044866\Avaliacao2BimLP3\obj\Debug\net6.0\Avaliacao2bimLP3.AssemblyInfoInputs.cache
+C:\Users\RENATA\Desktop\SP3044866\Avaliacao2BimLP3\obj\Debug\net6.0\Avaliacao2bimLP3.AssemblyInfo.cs
+C:\Users\RENATA\Desktop\SP3044866\Avaliacao2BimLP3\obj\Debug\net6.0\Avaliacao2bimLP3.csproj.CoreCompileInputs.cache
+C:\Users\RENATA\Desktop\SP3044866\Avaliacao2BimLP3\obj\Debug\net6.0\Avaliacao2bimLP3.dll
+C:\Users\RENATA\Desktop\SP3044866\Avaliacao2BimLP3\obj\Debug\net6.0\refint\Avaliacao2bimLP3.dll
+C:\Users\RENATA\Desktop\SP3044866\Avaliacao2BimLP3\obj\Debug\net6.0\Avaliacao2bimLP3.pdb
+C:\Users\RENATA\Desktop\SP3044866\Avaliacao2BimLP3\obj\Debug\net6.0\Avaliacao2bimLP3.genruntimeconfig.cache
+C:\Users\RENATA\Desktop\SP3044866\Avaliacao2BimLP3\obj\Debug\net6.0\ref\Avaliacao2bimLP3.dll
